@@ -1,0 +1,5 @@
+remote_theme: "godalming123/minimal"
+plugins:
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
+title: Andreas Resch
+description: GitHub page of me @reschandreas
